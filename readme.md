@@ -20,7 +20,7 @@ $ docker run --rm -it -p 80:80 -p 443:443 -v "${PWD}:/srv/data" dhlavaty/httpshe
 
 ...and now you can browse the contents of your dir with a browser
 
-![img](doc/https-localhost.png)
+![https://raw.githubusercontent.com/dhlavaty/docker-httpshere/main/doc/https-localhost.png](https://raw.githubusercontent.com/dhlavaty/docker-httpshere/main/doc/https-localhost.png)
 
 ## Convenient usage using alias
 
